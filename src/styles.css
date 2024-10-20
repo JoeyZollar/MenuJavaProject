@@ -1,0 +1,131 @@
+/*
+This file contains css code that applies styles to certain elements of the program
+*/
+
+/*
+Add button styles
+*/
+.Add-Button
+{
+    padding: 25;
+    -fx-padding: 25;
+    -fx-background-radius: 15;
+    -fx-background-color: #db5742;
+    background-color: #db5742;
+    -fx-text-fill: white;
+}
+
+.Add-Button:hover
+{
+    padding: 25;
+    -fx-padding: 25;
+    -fx-background-radius: 15;
+    -fx-background-color: #db7060d3;
+    background-color: #db7060;
+    -fx-text-fill: white;
+}
+
+.Add-Button:pressed
+{
+    padding: 25;
+    -fx-padding: 25;
+    -fx-background-radius: 15;
+    -fx-background-color: #db70607b;
+    background-color: #db70607b;
+    -fx-text-fill: white;
+}
+
+/*
+Cart button styles
+*/
+.Cart-Button
+{
+    padding: 25 50 25 50;
+    -fx-padding: 25 50 25 50;
+    -fx-background-radius: 15;
+    -fx-background-color: #74d55e;
+    background-color: #74d55e;
+    -fx-text-fill: white;
+}
+
+.Cart-Button:hover
+{
+    padding: 25 50 25 50;
+    -fx-padding: 25 50 25 50;
+    -fx-background-radius: 15;
+    -fx-background-color: #9fd593;
+    background-color: #9fd593;
+    -fx-text-fill: white;
+}
+
+.Cart-Button:pressed
+{
+    padding: 25 50 25 50;
+    -fx-padding: 25 50 25 50;
+    -fx-background-radius: 15;
+    -fx-background-color: #c1d7bdde;
+    background-color: #c1d7bdde;
+    -fx-text-fill: white;
+}
+
+/*
+Delete button styles
+*/
+.Delete-Button
+{
+    padding: 20;
+    -fx-padding: 20;
+    -fx-background-radius: 2;
+    -fx-background-color: #db5742;
+    background-color: #db5742;
+    -fx-text-fill: white;
+}
+
+.Delete-Button:hover
+{
+    padding: 25;
+    -fx-padding: 25;
+    -fx-background-radius: 2;
+    -fx-background-color: #db7060d3;
+    background-color: #db7060;
+    -fx-text-fill: white;
+}
+
+.Delete-Button:pressed
+{
+    padding: 25;
+    -fx-padding: 25;
+    -fx-background-radius: 2;
+    -fx-background-color: #db70607b;
+    background-color: #db70607b;
+    -fx-text-fill: white;
+}
+
+/*
+Item container styles
+*/
+.Item-Container {
+    border-color: rgb(218, 218, 218);
+    -fx-border-color: rgb(218, 218, 218);
+    border-width: 2;
+    -fx-border-width: 2;
+    border-style: solid;
+    -fx-border-style: solid;
+}
+
+.Item-Container:hover {
+    background-color: rgb(218, 218, 218);
+    -fx-background-color: rgb(236, 236, 236);
+}
+
+/*
+Style for the bar at the top of both scenes
+*/
+.Bar {
+    border-color: rgb(199, 199, 199);
+    -fx-border-color: rgb(199, 199, 199);
+    border-width: 2;
+    -fx-border-width: 2;
+    border-style: solid;
+    -fx-border-style: solid;
+}

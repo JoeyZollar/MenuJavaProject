@@ -1,0 +1,9 @@
+Raising Cane's
+DRINK/Sweet tea/250/200/Our very own homemade sweet tea. Cool and refreshing just the way Cane likes it/Contains: soy, root, other natrual flavors/0
+DRINK/Dr. Pepper/200/180/Classic Dr. Pepper/Contains: soy, root, other natrual flavors/0
+ITEM/Extra Cane's Sauce/135/100/An extra container of our world famous sauce., Coleslaw/Contains: soy,peanuts
+ITEM/The Kids Combo/800/600/2 Chicken Fingers, Crinkle-Cut Fries, 1 Cane's Sauce, Texas Toast/Contains: chicken, wheat, soy,peanuts
+ITEM/The Sandwhich Combo/1200/1020/3 Chicken Fingers, 1 Cane's sauce, Lettuce, Toasted Bun, Crinkle-Cut Fries/Contains: chicken, wheat, soy
+ITEM/The Three Finger Combo/1000/1200/3 Chicken Fingers, Crinkle-Cut Fries, 1 Cane's Sauce, Texas Toast/Contains: chicken, wheat, soy,peanuts
+ITEM/The Caniac Combo/1600/1600/6 Chicken Fingers, Crinkle-Cut Fries, 2 Cane's Sauce, Texas Toast, Coleslaw/Contains: chicken, wheat, soy,peanuts
+ITEM/The Box Combo/1100/1400/4 Chicken Fingers, Crinkle-Cut Fries, 1 Cane's Sauce, Texas Toast, Coleslaw/Contains: chicken, wheat, soy, peanuts
